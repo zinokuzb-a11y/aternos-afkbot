@@ -1,7 +1,7 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
-	"username": "Mr Origami",
+	"host": "NO_NAME-MUx9.aternos.me",
+	"port": "18523",
+	"username": "MrBot",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
